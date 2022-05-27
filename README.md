@@ -1,1 +1,1 @@
-The first README.md file for Basic Shell
+ALX Cohort 7 Shell Projects
