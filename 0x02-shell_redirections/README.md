@@ -18,3 +18,4 @@
 17. I hate bins
 18. Letters only please
 21. esreveR
+22. DJ Cut Killer
